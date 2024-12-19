@@ -1,4 +1,6 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
+user name: rahul
+password: rahul@2021
 
 ### Refer to the video below:
 
